@@ -124,4 +124,3 @@ working/
 5. **Grad-CAM Interpretability Caveat:** Grad-CAM heatmaps are low-resolution visual explanations ($7 \times 7$ upsampled to $224 \times 224$) and must **never** be interpreted as clinical segmentation masks or proof of pathological understanding.
 
 # brain-tumor-classification
-# brain-tumor-classification
