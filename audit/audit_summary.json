@@ -1,0 +1,28 @@
+{
+  "total_images": 7200,
+  "total_bytes": 167848957,
+  "formats": {
+    "JPEG": 7196,
+    "PNG": 4
+  },
+  "modes": {
+    "RGB": 4129,
+    "L": 3067,
+    "RGBA": 3,
+    "P": 1
+  },
+  "exact_dup_groups": 153,
+  "exact_dup_total_images": 340,
+  "cross_split_exact_groups": 0,
+  "cross_class_exact_groups": 0,
+  "within_train_exact_groups": 138,
+  "within_test_exact_groups": 15,
+  "cross_split_phash0_pairs": 698,
+  "cross_split_phash1_2_pairs": 682,
+  "leakage_examples": [
+    {
+      "train_file": "Tr-gl_1219.jpg",
+      "train_class": "glioma",
+      "test_file": "Te-gl_122.jpg",
+      "test_class": "glioma",
+      "distance": 
